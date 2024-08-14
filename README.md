@@ -4,6 +4,7 @@
 
 **Features**
 1.User Authentication:Users can register, log in, and manage their notes.
+
 2.CRUD Operations: Users can create, read, update, and delete notes.
 3.Responsive Design: The application is designed to work on various screen sizes.
 4.Database Integration: The project uses MySQL to store user and note data.
